@@ -1,1 +1,2 @@
-print ("Ola caracola")
+print ("Ola caracola.")
+print ("Git action completed")
